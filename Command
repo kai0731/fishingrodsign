@@ -1,0 +1,1 @@
+/give @p minecraft:sign 1 0 {BlockEntityTag:{Text1:,Text2:"{text:\"\",clickEvent:{action:run_command,value:\"/give @p fishing_rod\"},extra:[{text:\"Fishing_rod\",color:aqua,bold:true}]}",Text3:"{text:\"\",clickEvent:{action:run_command,value:\"/give @p fishing_rod\"},extra:[{text:\"Click!\",color:red,bold:true}]}",Text4:}}
